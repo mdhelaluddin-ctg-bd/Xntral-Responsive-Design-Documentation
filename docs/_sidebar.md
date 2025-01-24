@@ -1,4 +1,4 @@
-- [**<span style="font-size: 1.2em; text-decoration: underline;">Xntral</span>**](/)
+<!-- - [**<span style="font-size: 1.2em; text-decoration: underline;">Xntral</span>**](/) -->
 
 - Auth  
   - Sign up
