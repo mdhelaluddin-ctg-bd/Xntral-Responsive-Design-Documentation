@@ -1,0 +1,1 @@
+# Xntral Responsive Design Documentation

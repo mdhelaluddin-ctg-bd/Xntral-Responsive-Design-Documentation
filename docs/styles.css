@@ -1,0 +1,8 @@
+img {
+    border: 2px solid #ccc; /* Adjust the color and thickness as needed */
+    border-radius: 5px; /* Optional: Adds rounded corners */    
+}
+
+.content {
+    padding-top: 10px;
+}
